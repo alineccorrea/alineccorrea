@@ -1,4 +1,4 @@
-<img align="left" width="250px" style="margin-top:-20px" src="https://i.ibb.co/mCd2dcp/IMG-5378sembg.png">
+<img align="left" width="150px" style="margin-top:-20px" src="https://i.ibb.co/NFWftfF/IMG-5378sembg22.png">
 
 ### Hi there 👋
 
