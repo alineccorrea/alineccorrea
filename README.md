@@ -1,3 +1,5 @@
+<img align="left" width="250px" style="margin-top:-20px" src="https://i.ibb.co/mCd2dcp/IMG-5378sembg.png">
+
 ### Hi there 👋
 
 <!--
