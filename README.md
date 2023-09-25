@@ -2,9 +2,10 @@
 
 ### Hi there 👋
 **Bem Vindo(a)!** <br>
+<img align="right" width="300px" style="margin-top:-20px" src="https://github.com/alineccorrea/alineccorrea/assets/17708577/d42341eb-92d2-4e41-b292-8e03440fbb27"> 
 Sempre fui apaixonada por tecnologia, com 12 anos ja "brincava" de montar páginas HTML, mexendo em CSS simples, no windows XP usando o bloco de notas e desde então tive certeza que continuaria no mundo Tech.
 
-Tenho formação técnica em Desenvolvimento de Sistemas e ja atuei como: QA (testes de software) e posteriormente tive a oportunidade de desenvolver na linguagem Java. Gosto dos dois mundos: Back End e Front End. No momento, estou estudando um pouco das linguagens dos dois mundos para atualizar os conhecimentos, criar projetos e um dia poder contribuir no cenário tecnológico de desenvolvimento Full Stack.
+Tenho formação técnica em Desenvolvimento de Sistemas e ja atuei como: QA (testes de software) e posteriormente tive a oportunidade de desenvolver na linguagem Java. Gosto dos dois mundos: Back End e Front End. No momento, estou estudando um pouco das linguagens dos do Back e Front End para atualizar os conhecimentos, criar projetos e um dia poder contribuir no cenário tecnológico de desenvolvimento Full Stack.
 
 Amante do mundo Tech mas também gosto de fotografia, artes visuais e nas horas vagas gosto de ler, aproveitar muito meus dois parceiros caninos, conhecer algum lugar novo ou me arrisco a tocar violão.
 ### Tech, Frameworks, Tools & Systems: 
