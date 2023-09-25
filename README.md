@@ -7,7 +7,7 @@ Sempre fui apaixonada por tecnologia, com 12 anos ja "brincava" de montar págin
 
 Tenho formação técnica em Desenvolvimento de Sistemas e ja atuei como: QA (testes de software) e posteriormente tive a oportunidade de desenvolver na linguagem Java. Gosto dos dois mundos: Back End e Front End. No momento, estou estudando um pouco das linguagens dos do Back e Front End para atualizar os conhecimentos, criar projetos e um dia poder contribuir no cenário tecnológico de desenvolvimento Full Stack.
 
-Amante do mundo Tech mas também gosto de fotografia, artes visuais e nas horas vagas gosto de ler, aproveitar muito meus dois parceiros caninos, conhecer algum lugar novo ou me arrisco a tocar violão.
+Amante do mundo Tech mas também gosto de fotografia, artes visuais e nas horas vagas gosto de ler, assistir algum filme ou série, aproveitar muito meus dois parceiros caninos, conhecer algum lugar novo ou me arrisco a tocar violão.
 ### Tech, Frameworks, Tools & Systems: 
 <div style="display: inline_block">
   <img align="center" alt="Aline-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
