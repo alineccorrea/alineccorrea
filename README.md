@@ -41,7 +41,6 @@ Amante do mundo Tech mas também gosto de fotografia, artes visuais e nas horas 
 ### Connect with me: 
 [![GitHub](https://img.shields.io/badge/alineccorrea-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/alineccorrea)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aline_carvalhoc/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](LINK_AQUI)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alineccorrea97@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-carvalho-correa/)
 
