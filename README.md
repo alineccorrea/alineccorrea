@@ -2,12 +2,7 @@
 
 ### Hi there 👋
 **Bem Vindo(a)!** <br>
-<img align="right" width="300px" style="margin-top:-20px" src="https://github.com/alineccorrea/alineccorrea/assets/17708577/d42341eb-92d2-4e41-b292-8e03440fbb27"> 
-Sempre fui apaixonada por tecnologia, com 12 anos ja "brincava" de montar páginas HTML, mexendo em CSS simples, no windows XP usando o bloco de notas e desde então tive certeza que continuaria no mundo Tech.
 
-Tenho formação técnica em Desenvolvimento de Sistemas e ja atuei como: QA (testes de software) e posteriormente tive a oportunidade de desenvolver na linguagem Java. Gosto dos dois mundos: Back End e Front End. No momento, estou estudando um pouco das linguagens dos do Back e Front End para atualizar os conhecimentos, criar projetos e um dia poder contribuir no cenário tecnológico de desenvolvimento Full Stack.
-
-Amante do mundo Tech mas também gosto de fotografia, artes visuais e nas horas vagas gosto de ler, assistir algum filme ou série, aproveitar muito meus dois parceiros caninos, conhecer algum lugar novo ou me arrisco a tocar violão.
 ### Tech, Frameworks, Tools & Systems: 
 <div style="display: inline_block">
   <img align="center" alt="Aline-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +15,6 @@ Amante do mundo Tech mas também gosto de fotografia, artes visuais e nas horas 
   <img align="center" alt="Aline-gimp" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg">
   <img align="center" alt="Aline-git" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Aline-github" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Aline-gitlab" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg">
   <img align="center" alt="Aline-illustrator" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Aline-jira" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
   <img align="center" alt="Aline-mysql" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
