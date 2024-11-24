@@ -1,37 +1,5 @@
-<img align="left" width="150px" style="margin-top:-20px" src="https://i.ibb.co/NFWftfF/IMG-5378sembg22.png">
-
 ### Hi there 👋
 **Bem Vindo(a)!** <br>
-
-### Tech, Frameworks, Tools & Systems: 
-<div style="display: inline_block">
-  <img align="center" alt="Aline-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Aline-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Aline-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Aline-java" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Aline-bootstrap" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="Aline-figma" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Aline-confluence" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg">
-  <img align="center" alt="Aline-gimp" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg">
-  <img align="center" alt="Aline-git" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Aline-github" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Aline-illustrator" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="Aline-jira" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
-  <img align="center" alt="Aline-mysql" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Aline-photoshop" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Aline-php" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Aline-postgreSQL" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Aline-vscode" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="Aline-windows" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-  <img align="center" alt="Aline-ubuntu" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" alt="Aline-procreate" width="40" src="https://procreate-assets-cdn.procreate.art/img/icon-white.5243ff5.png">
-  <img align="center" alt="Aline-intellij_idea" src="https://img.shields.io/badge/-intellij_idea-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-  <img align="center" alt="Aline-postman" src="https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img align="center" alt="Aline-adobelightroom" src="https://img.shields.io/badge/-adobe_lightroom-001D34?style=for-the-badge&logo=adobelightroom&logoColor=white">
-  <img align="center" alt="Aline-eclipseide" src="https://img.shields.io/badge/-eclipse_ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-  <img align="center" alt="Aline-springboot" src="https://img.shields.io/badge/-spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img align="center" alt="Aline-audacity" src="https://img.shields.io/badge/-audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
-</div>
 
 ### Connect with me: 
 [![GitHub](https://img.shields.io/badge/alineccorrea-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/alineccorrea)
